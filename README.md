@@ -152,7 +152,7 @@ sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm')
 ## Author
 
 **Siddharth Chandra Prabhakar**
-Pre-final year B.Tech (Electronics & Communication Engineering)
+Final year B.Tech (Electronics & Communication Engineering)
 National Institute of Technology Sikkim
 
 ## License
